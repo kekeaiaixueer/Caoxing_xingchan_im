@@ -9,7 +9,7 @@
 ![语言](https://img.shields.io/badge/语言-Python%2FTypeScript-lightgrey)
 
 ---
-
+项目部分接口死亡，工作要紧懒得更新，出售源码。
 ## 功能特性
 
 - **IM 消息实时监听**：连接学习通 IM 消息通道（protobuf WebSocket），支持文本、图片、语音、视频、文件、位置、命令、自定义、合并转发、扩展等消息类型。
